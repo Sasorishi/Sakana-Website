@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="bxl-linkedin" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <circle id="Ellipse_4" cx="3.663" cy="3.663" r="3.663" class="cls-1"/>
+    <path id="Tracé_375" d="M13.214 9.057v20.324h6.209v-10.05c0-2.652.491-5.22 3.727-5.22 3.191 0 3.231 3.032 3.231 5.388v9.885h6.213V18.237c0-5.475-1.16-9.682-7.456-9.682a6.511 6.511 0 0 0-5.878 3.282h-.084v-2.78zm-10.114 0h6.214v20.324H3.1z" class="cls-1" transform="translate(-2.593 .617)"/>
+</svg>
